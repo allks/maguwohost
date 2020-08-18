@@ -1,0 +1,33 @@
+{
+  "name": "maguwohost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/alllks/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/alllks/test/issues"
+  },
+  "homepage": "https://gitlab.com/alllks/test#readme",
+  "devDependencies": {
+    "browser-sync": "2.26.12",
+    "del": "5.1.0",
+    "gulp": "4.0.2",
+    "gulp-autoprefixer": "7.0.1",
+    "gulp-clean-css": "4.3.0",
+    "gulp-cli": "2.3.0",
+    "gulp-concat": "2.6.1",
+    "gulp-imagemin": "7.1.0",
+    "gulp-newer": "1.4.0",
+    "gulp-sass": "4.1.0",
+    "gulp-uglify-es": "2.0.0"
+  }
+}
